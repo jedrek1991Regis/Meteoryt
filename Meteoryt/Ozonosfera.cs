@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Meteoryt
 {
-    public class Ozonosfera
+    public class Ozonosfera: CialoNiebieskie
     {
         private double temperatura = -44.5;
         private double cisnienie = 131.43;

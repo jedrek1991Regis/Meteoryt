@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Meteoryt
 {
-    public class Termosfera
+    public class Termosfera : CialoNiebieskie
     {
         private double temperatura = 1000;
         private double cisnienie = 0;
         private double gestosc;
 
-        public Termosfera(double gestosc, double temperatura, double cisnienie)
+        public Termosfera(double gestosc, double temperatura, double cisnienie, float x, float y, float r) : base( x, y ,r )
         {
             this.temperatura = temperatura;
             this.cisnienie = cisnienie;

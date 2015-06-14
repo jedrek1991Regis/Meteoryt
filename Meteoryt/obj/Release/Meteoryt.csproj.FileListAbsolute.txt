@@ -1,0 +1,10 @@
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\bin\Release\Meteoryt.exe.config
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\bin\Release\Meteoryt.exe
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\bin\Release\Meteoryt.pdb
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.Scena.resources
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.Form1.resources
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.Form2.resources
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.Properties.Resources.resources
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.csproj.GenerateResource.Cache
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.exe
+D:\Dane\Visual Studio 2012\Projects\Meteoryt\Meteoryt\obj\Release\Meteoryt.pdb
